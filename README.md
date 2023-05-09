@@ -1,7 +1,9 @@
 # unsupervised-learning
 Cryptoclustering
+
 Module 19 Unsupervised Learning - May 2023
 
+Notes: There was no assitance from others in completing this assignment.
 
 Assignment:
 Prepare the Data
